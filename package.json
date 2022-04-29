@@ -9,7 +9,7 @@
   "author": "xx",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "connect-multiparty": "^2.1.0",
     "express": "^4.16.2",
     "koa": "^2.4.1",
